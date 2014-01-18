@@ -51,7 +51,7 @@ object KindleClippings {
       book = Book(title)
       clippingsForBook = clippingsByBook.getOrElse(book, Vector[Clipping]())
       pageOption = pageOrlocation match {
-        case Page(page) => Some(page.toInt)
+        case Page(page) => Try(page.toInt).toOption
         case _ => None
       }
       locationOption = pageOrlocation match {
