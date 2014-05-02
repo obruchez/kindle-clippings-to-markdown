@@ -3193,3 +3193,548 @@ The Brain and the Meaning of Life (Paul Thagard)
 
 In sum, attention to how the brain functions in perception supports constructive realism over empiricism and idealism. The constructive nature of perception with both top-down and bottom-up processing shows the implausibility of a narrow empiricism that ties knowledge too closely to sensory input. On the other hand, the robustness of sensory inputs of different kinds counts by inference to the best explanation against the idealist view that the existence of objects is mind dependent. 
 ==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 80 | Loc. 1461-64  | Added on Monday, March 17, 2014, 08:54 AM
+
+In chapter 3 , I argued for the conceptual shift away from thinking of minds as things to thinking of them as relational processes. Similarly, a difficult but explanatorily valuable part of the Brain Revolution is its shift away from thinking of concepts and their meaning as entities and toward understanding them as processes with relations along multiple dimensions, involving both the world and other concepts. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 82 | Loc. 1483-86  | Added on Monday, March 17, 2014, 09:00 AM
+
+The second question is much more serious: if concepts can go beyond sense experience, how do we know which of them have anything to do with reality? There are many concepts that may be meaningful because of their relation to other concepts, but which fail to refer to anything in the world. Children readily acquire concepts such as elf and unicorn, but eventually learn that these are mythical. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 82 | Loc. 1493-97  | Added on Monday, March 17, 2014, 09:03 AM
+
+Perhaps all our current scientific concepts are like that, temporary ways of thinking that will eventually be retired along with the superseded theories that contain them. I doubt, however, that most of our current scientific concepts will go the way of phlogiston. The reason that concepts like oxygen and atom are still around is evidence based, in line with the principles of inference to the best explanation described in chapter 2 . 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 87 | Loc. 1584-85  | Added on Tuesday, March 18, 2014, 09:03 AM
+
+I suspect that human understanding of time, like that of space and causality, is often difficult to put into words because its neural encoding is partly dependent on physiological rather than verbal representations. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 90 | Loc. 1626-27  | Added on Wednesday, March 19, 2014, 08:53 AM
+
+Brains know reality through a combination of perception and inference to the best explanation of what is observed. Such inference attempts to maximize explanatory coherence, which sometimes requires rejection of what the senses tell us. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 90 | Loc. 1632-34  | Added on Wednesday, March 19, 2014, 08:56 AM
+
+Knowledge is not a matter of pure coherence, because observational evidence does get some priority and provides some constraint on utterly fanciful speculation. Nevertheless, I advocate a kind of coherentism, the view that beliefs are justified by how well they fit with other beliefs and with sensory experience. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 91 | Loc. 1635-36  | Added on Wednesday, March 19, 2014, 08:56 AM
+
+Reality consists of objects and their properties that we can learn about through perception and inference to the best explanation. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 91 | Loc. 1638-40  | Added on Wednesday, March 19, 2014, 08:59 AM
+
+well-supported scientific theories are usually a more reliable guide to reality than is common sense, which is often derived from tradition rather than systematic evaluation of alternative hypotheses with respect to evidence. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 91 | Loc. 1645-48  | Added on Wednesday, March 19, 2014, 09:01 AM
+
+According to the fossil record, the first mammals, whose brains were larger and more advanced than those of the reptiles they evolved from, came along only around two hundred million years ago. Hence we have abundant evidence that reality existed long before minds came along, and presumably will continue long after all minds are extinct. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 92 | Loc. 1659-63  | Added on Wednesday, March 19, 2014, 06:21 PM
+
+minds are brains, so constructive realism is true. Rather, like all inferences, my conclusions are justified by overall coherence: given that minds are brains, and given everything else we know, the most coherent conclusion is that people use perception and inference to the best explanation to construct knowledge about reality. This process of justification will seem circular if you think that knowledge should have a foundation of indubitable truths from which other truths are derived. But no one has ever succeeded in identifying such a foundation in either sense experience or a priori reasoning, so we have to strive instead to construct the most coherent systems of representations that we can. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 94 | Loc. 1683-84  | Added on Wednesday, March 19, 2014, 06:25 PM
+
+Emotions such as excitement and worry shape our knowledge of reality by guiding us to acquire information that matters to us. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 95 | Loc. 1694-97  | Added on Thursday, March 20, 2014, 08:56 AM
+
+There are indeed many ways in which emotional states can interfere with making good inferences, ranging from psychiatric problems such as mania and depression to more everyday afflictions such as wishful thinking, motivated inference, weakness of will, and self-deception. Understanding emotional brain processes can help us to deal with these problems, but it can also help us to appreciate how emotions are essential for effective thinking in all domains, from practical decision making to scientific discovery. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 95 | Loc. 1698  | Added on Thursday, March 20, 2014, 08:57 AM
+
+The mind does not just have concepts and beliefs, but also attaches values to them. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 98 | Loc. 1735-38  | Added on Thursday, March 20, 2014, 09:04 AM
+
+Philosophers and psychologists have long debated the nature of the emotions, and their proposed theories fall into two main camps: cognitive appraisal and bodily perception. According to cognitive appraisal theories, emotions are judgments about the extent to which a perceived situation accomplishes a person's goals. According to bodily perception theories, however, emotions are not judgments but rather perceptions of physiological states. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 104 | Loc. 1826-28  | Added on Friday, March 21, 2014, 08:19 AM
+
+Hence the parallel constraint satisfaction that assesses the relevance of situations to goals includes bodily perception as an important part. Emotions are not just gut reactions, because they also involve cognitive judgments. But contrary to purely cognitive theories of emotions, gut reactions are a part of appraisal. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 105 | Loc. 1843-45  | Added on Monday, March 24, 2014, 08:33 AM
+
+I suggested in chapter 3 that finding mechanisms for consciousness is the major barrier to acceptance of the inference to the best explanation that minds are brains. I will not offer a full theory of consciousness in this book, but I will sketch how the EMOCON model suggests a mechanistic explanation of emotional consciousness. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 107 | Loc. 1881-86  | Added on Monday, March 24, 2014, 12:12 PM
+
+Some philosophers will respond that they just can't imagine how feelings could be brain processes, and that they can easily imagine having brains exactly like ours without having any feelings. But I argued in chapter 2 that such capacities and incapacities for understanding the mind as brain should not be taken seriously, because what we manage to conceive is an indicator not of reality, but only of our current limited understanding of it. I predict that progress in neuroscience will continue to make it easier for us to think of mind as brain, and we will only get better at imagining how brains can feel emotions. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 108 | Loc. 1892-93  | Added on Monday, March 24, 2014, 12:14 PM
+
+Spiritual experiences and philosophical intuitions are products of interacting brain processes, not sources of special evidence about the nature of mind and reality. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 108 | Loc. 1898-1902  | Added on Monday, March 24, 2014, 12:20 PM
+
+One possibility is that emotional and other kinds of consciousness are just by-products of the organizational complexity of the brain, without any special evolutionary contribution. But it is also possible that brains evolved to have feelings as complex representations because of their contribution to the effectiveness of both individuals and groups. A feeling such as happiness or fear can provide a concise summary of the complex unconscious evaluation by constraint satisfaction of the advantages and dangers of a situation. Feelings provide succinct information about anticipated benefits and risks, and thereby foster quick and effective action. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 110 | Loc. 1928  | Added on Monday, March 24, 2014, 05:04 PM
+
+Hence neural and molecular mechanistic explanations complement rather than compete with each other. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 110 | Loc. 1931-32  | Added on Monday, March 24, 2014, 05:05 PM
+
+Saying that concepts are patterns of neural activity enhances rather than eliminates the explanatory value of such representations. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 110 | Loc. 1938  | Added on Monday, March 24, 2014, 05:06 PM
+
+Hence psychological explanations of emotions can coexist with and complement neural ones, just as molecular explanations can. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 111 | Loc. 1947-49  | Added on Monday, March 24, 2014, 05:09 PM
+
+We should be neither reductionist, claiming that explanation ought to be at just one fundamental level, nor antireductionist, claiming that levels of explanation are independent of each other. The best approach to explaining mental events requires attention to multiple levels, from the social to the molecular, with a focus on how they interact. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 111 | Loc. 1956-58  | Added on Monday, March 24, 2014, 05:10 PM
+
+Levels of explanation are intertwined, not simply reductive. But in rejecting a ruthless reductionism, we should not embrace a blind antireductionism that ignores how social groups consist of persons, who consist of organs such as brains, which consist of neurons, which consist of proteins and other molecules. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 112 | Loc. 1968-69  | Added on Monday, March 24, 2014, 05:13 PM
+
+There are at least five affective afflictions, ways our emotions can seriously skew our thinking away from rationality: motivated inference, self-deception, weakness of will, depression, and manic exuberance. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 114 | Loc. 2002-5  | Added on Tuesday, March 25, 2014, 08:52 AM
+
+The negative effects of motivated inference, self-deception, weakness of will, conflicts of interest, depression, and manic exuberance—and additional affective afflictions, including fears not based on evidence—do indeed make it tempting to embrace the classical view that emotions just get in the way of rational thinking. These affective afflictions make implausible the romantic view that our feelings are inherently good and just need to be let loose. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 115 | Loc. 2021  | Added on Tuesday, March 25, 2014, 08:57 AM
+
+The simplest but nevertheless valuable rule I have heard is Michael Pollan's suggestion: eat food, not too much, mostly plants. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 115 | Loc. 2021-22  | Added on Tuesday, March 25, 2014, 08:57 AM
+
+The simplest but nevertheless valuable rule I have heard is Michael Pollan's suggestion: eat food, not too much, mostly plants. By analogy, I propose this rule: feel emotions, not too strongly, mostly happy. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 115 | Loc. 2029-31  | Added on Tuesday, March 25, 2014, 09:00 AM
+
+The bodily perception component of the model suggests that we should be able to modify emotions by changing our physical states, and there are effective ways of accomplishing this. Meditation and other relaxation techniques can be used to calm breathing and heart rates, helping to reduce negative emotions such as anxiety. Exercise is another excellent way to relieve stress by changing bodily states. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 121 | Loc. 2122-25  | Added on Wednesday, March 26, 2014, 08:59 AM
+
+Chapter 2 presented the view that beliefs are accepted or rejected on the basis of inference to the best explanation, which we achieve by evaluating competing hypotheses with respect to how well they explain all the available evidence. Analogously, I propose that decisions are made on the basis of inference to the best plan, which we achieve by evaluating competing actions with respect to how well they accomplish all the relevant goals. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 121 | Loc. 2125-26  | Added on Wednesday, March 26, 2014, 08:59 AM
+
+In theory evaluation, you want to figure out which package of hypotheses provides the most explanatory power, whereas in decision making you need to find out which package of actions provides the most goal accomplishment. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 127 | Loc. 2224-27  | Added on Friday, March 28, 2014, 08:49 AM
+
+The artificial intelligence pioneer Marvin Minsky has an intriguing idea about how early goals can arise because of what he calls attachment-based learning. Children naturally develop strong emotional attachments to their caregivers, usually parents. Caregivers transmit to children not only factual information but also emotional values, including ones that become attached to goals. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 127 | Loc. 2234-35  | Added on Friday, March 28, 2014, 08:49 AM
+
+A related way of acquiring goals can come about through analogical thinking using role models. You may not be sure about what you want to do with your life, but someone you admire may suggest a set of goals that you can adopt as your own. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 128 | Loc. 2240-41  | Added on Friday, March 28, 2014, 08:51 AM
+
+Other important goals arise naturally just because we care for other people, including family members, friends, and, at times, a broader range of people in need. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 133 | Loc. 2324-26  | Added on Monday, March 31, 2014, 06:23 PM
+
+As we saw in chapter 5 , our brains operate with an integrated package of beliefs, emotions, and goals that change together. So social innovation requires changes in goals and emotions as well as in belief. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 133 | Loc. 2339-42  | Added on Tuesday, April 01, 2014, 08:46 AM
+
+Here are some ways to really screw up your decisions. First, make them very rapidly, so that you do not have time to consider all the relevant actions and goals. Instead of considering a range of possible actions, fixate on one set of actions and ignore others that might accomplish your goals better. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 134 | Loc. 2352  | Added on Tuesday, April 01, 2014, 08:47 AM
+
+Second, avoid collecting reliable information about the extent to which different actions facilitate different goals. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 135 | Loc. 2363  | Added on Tuesday, April 01, 2014, 08:49 AM
+
+Third, neglect to carefully evaluate the importance of different goals. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 136 | Loc. 2377-79  | Added on Tuesday, April 01, 2014, 08:50 AM
+
+Fourth, once you have a made a decision, be completely confident in your choice and ignore any new information about developing situations that might make you inclined to change your plan. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 136 | Loc. 2380-82  | Added on Tuesday, April 01, 2014, 08:51 AM
+
+Fifth, make the decision on your own without consulting other people who might have a broader idea of the full range of possible actions, goals, and factual connections between them. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 136 | Loc. 2383-84  | Added on Tuesday, April 01, 2014, 08:51 AM
+
+Sixth and finally, make your decisions in line with only your own goals, and ignore the goals and needs of other people. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 138 | Loc. 2425-28  | Added on Tuesday, April 01, 2014, 06:13 PM
+
+It would be misleading, however, to attempt to redefine free will as this kind of control of behavior by thought, if thought is recognized as a neural process. We should not underestimate the attractiveness of full-blown, brain-independent free will, which like immortality is something that is naturally desired. Both are part of the powerful lure of dualism. The thought that your life need not end with death has great appeal, and so does the vision that you are, in the words of Tennyson, the master of your fate and the captain of your soul. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 139 | Loc. 2439-40  | Added on Wednesday, April 02, 2014, 08:50 AM
+
+Ideas about predetermination and fate are essentially religious; they pose no scientific threat to the reduced kind of freedom consistent with viewing the brain as a collection of causal processes. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 139 | Loc. 2444-47  | Added on Wednesday, April 02, 2014, 08:51 AM
+
+Similarly, if your actions are caused by brain processes including ones highly susceptible to the kinds of cognitive and emotional distortions that can result in bad decisions, then you have more reason to be tolerant of yourself when you sometimes make mistakes. You also have an excellent reason to be more tolerant of others, appreciating that their mistakes are the result not of willful sins but of a multiplicity of causal forces. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 140 | Loc. 2447-48  | Added on Wednesday, April 02, 2014, 08:51 AM
+
+Emotions such as guilt, shame, and remorse can still be appropriate, as long as they serve to prevent mistakes in the future. But there is no point to the overwhelming sense of sinfulness, fear, and trembling that afflicts some religious people. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 140 | Loc. 2459-60  | Added on Wednesday, April 02, 2014, 08:54 AM
+
+You don't tell your brain what to do, and your brain doesn't tell you what to do: you are your brain deciding what to do in your physical and social environment. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 141 | Loc. 2465-66  | Added on Wednesday, April 02, 2014, 09:00 AM
+
+Wisdom—knowing what matters—requires the adaptive capability of acquiring, abandoning, and revaluing goals. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 145 | Loc. 2547-48  | Added on Thursday, April 03, 2014, 08:42 AM
+
+Historically, the main alternative to nihilism has been the theological view that God created the universe and established a purpose for it. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 147 | Loc. 2567-69  | Added on Thursday, April 03, 2014, 08:49 AM
+
+It found that happiness on average is fairly stable through the life span, with a very mild peak around age 51. This result is consistent with the view of some psychologists that each person has a “set point,” a level of happiness that is only mildly perturbed by life events. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 147 | Loc. 2570-72  | Added on Thursday, April 03, 2014, 08:49 AM
+
+Except for family satisfaction, which also peaked around 50, these showed very different patterns from overall happiness. Financial satisfaction tended to rise steadily after 40, but job satisfaction tended to peak around age 62. Satisfaction with health, on the other hand, fell steadily from age 18 on. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 148 | Loc. 2586-92  | Added on Thursday, April 03, 2014, 06:36 PM
+
+People with incomes over $100,000 were twice as likely to be very happy as those with incomes under $30,000, and they were significantly happier than those with incomes between $75,000 and $100,000 (49 percent versus 38 percent). Other correlations also stand out. Married people are happier than unmarrieds, although having children makes little additional difference. People who attend religious services frequently are happier. Republicans are happier than Democrats, an effect not accounted for solely by the fact that rich people are happier than poor ones. The largest factor that predicts differences in happiness is being in good health, as 55 percent of people who say their health is poor describe themselves as not too happy. Another demographic group with happiness deficits consists of single parents with minor age children, 27 percent of whom report being not too happy. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 149 | Loc. 2614-17  | Added on Friday, April 04, 2014, 08:45 AM
+
+You can have happiness without much meaning, and meaning without much happiness; so happiness is not the meaning of life. Happiness is having your goals satisfied, but meaning additionally involves having worthwhile goals that may or may not be satisfied. Hence we cannot simply conclude that the meaning of life is happiness; we need to look in more detail at the nature of goals and how they contribute to meaning. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 150 | Loc. 2623-24  | Added on Friday, April 04, 2014, 08:48 AM
+
+It would be pointless, however, to maintain a goal that you know you cannot achieve. Hence goal abandonment is an important part of rationality, in addition to goal adoption. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 151 | Loc. 2638-42  | Added on Friday, April 04, 2014, 08:51 AM
+
+In sum, your life is meaningful to the extent that you have goals, which are emotionally valued mental representations of situations, consisting of patterns of neural activity; some of your goals have been accomplished to some degree; you have other goals not yet accomplished that you have reasonable prospects of accomplishing; your goals are coherent with each other; and your goals are objectively valuable. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 153 | Loc. 2686-88  | Added on Saturday, April 05, 2014, 01:55 PM
+
+Romantic love can be viewed as a goal-oriented state that leads to specific emotions such as euphoria and anxiety rather than as a specific emotion. Its neurophysiology seems to differ from that of mere sexual attraction and also from that of long-term attachment. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 155 | Loc. 2717-19  | Added on Saturday, April 05, 2014, 02:04 PM
+
+Hence evidence is mounting that social and physical pain have similar mechanisms that can be understood in terms of brain regions such as the anterior cingulate and chemical processes that occur in them. Minds are brains whether they're feeling good or bad. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 158 | Loc. 2777-79  | Added on Saturday, April 05, 2014, 02:35 PM
+
+The richest Americans have a high level of life satisfaction, but theirs is not a great deal higher than that of people with middle incomes, and no higher than that of the Pennsylvania Amish, who lead very simple lives. Hence there seems to be no reason to adopt money as a major goal in itself, so work is not just a reason to make money. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 160 | Loc. 2809-12  | Added on Saturday, April 05, 2014, 02:42 PM
+
+In sum, work can be a major source of meaning in people's lives not only for external reasons such as providing income and social contacts, but especially for internal reasons tied to the neural nature of problem solving.Jobs that set challenging but reachable goals provide people with motivating tasks that can be inherently enjoyable, because the adoption and accomplishment of goals is a major part of the emotional system in our brains. For most people, finishing challenging tasks is much more satisfying than slacker serenity. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 171 | Loc. 2979-80  | Added on Wednesday, April 09, 2014, 08:59 AM
+
+Without competence, autonomy, and relatedness, it is very difficult to function as a human being. Moreover, there is growing evidence presented below concerning the neural mechanisms underlying these needs. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 171 | Loc. 2979  | Added on Thursday, April 10, 2014, 08:49 AM
+
+Without competence, autonomy, and relatedness, it is very difficult to function as a human being. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 174 | Loc. 3025-26  | Added on Thursday, April 10, 2014, 09:00 AM
+
+You act autonomously whenever your decisions are based on your own goals, even if the neural process of inference to the best plan is incompatible with the kind of free will that dualism promises but fails to deliver. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 174 | Loc. 3041-42  | Added on Thursday, April 10, 2014, 06:43 PM
+
+Love, work, and play are goals whose pursuit contributes centrally to the meaning of life because their achievement satisfies vital needs for relatedness, competence, and autonomy. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 176 | Loc. 3068-70  | Added on Monday, April 14, 2014, 08:50 AM
+
+The major constraints that make it impossible to pursue all these goals are the limited supplies of time, energy, and money. Hence the key to avoiding incoherence is to allocate these supplies so as to ensure that love, work, and play each get enough time, energy, and money to make possible an acceptable degree of life satisfaction. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 180 | Loc. 3143-49  | Added on Monday, April 14, 2014, 06:34 PM
+
+Expressing gratitude Cultivating optimism Avoiding overthinking and social comparison Practicing acts of kindness Nurturing social relationships Developing strategies for coping Learning to forgive Increasing flow experiences where one is absorbed in an activity Savoring life's joys Committing to your goals Practicing religion and spirituality Taking care of your body through physical activity Except for number 11, these all fit very well with the emphasis in this chapter on how people can develop happiness and meaning in their lives through the pursuit of goals concerning love, work, and play. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 181 | Loc. 3165-67  | Added on Tuesday, April 15, 2014, 08:45 AM
+
+Religions such as Christianity have provided a conceptual and emotional framework for dealing with death, but a better way to manage fear of nonexistence is simply to strive to ensure that by the time you die, you will have largely accomplished your goals and abandoned the unreasonable ones. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 182 | Loc. 3173-75  | Added on Tuesday, April 15, 2014, 08:48 AM
+
+Understanding the neural basis of psychological needs such as relatedness, competence, and autonomy enables us to see how psychological needs are biological needs. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 186 | Loc. 3244-48  | Added on Wednesday, April 16, 2014, 08:41 AM
+
+Second, understanding moral intuitions as neural processes of emotional consciousness can start to explain why there is both much agreement and much disagreement about what is right and wrong. Agreement is explained in part by the fact that almost all people share the same neurological structures described in the EMOCON model, including areas such as the amygdala and the insula needed for bodily perceptions and structures such as the prefrontal cortex and the dopamine system needed for cognitive appraisal. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 187 | Loc. 3257-59  | Added on Wednesday, April 16, 2014, 08:42 AM
+
+Why some people lack the normal capability for moral intuition is just beginning to be understood at the neural level. One prominent theory is that psychopaths have amygdala damage that interferes with the kind of emotional learning one needs to acquire moral reactions to other people's experience of harm. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 187 | Loc. 3261  | Added on Wednesday, April 16, 2014, 08:42 AM
+
+Differences in moral judgments can also result from damage to other brain areas, such as the ventromedial prefrontal cortex. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 188 | Loc. 3273-74  | Added on Wednesday, April 16, 2014, 08:47 AM
+
+why might you be concerned with the goals and well-being of other people besides yourself? It turns out that you have special kinds of neural populations that make concern for others very natural. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 188 | Loc. 3285-87  | Added on Wednesday, April 16, 2014, 06:06 PM
+
+Not only does a monkey's mirror neuron system give it a direct understanding of what another monkey is doing when it moves; it also facilitates imitating those motions that might be useful for its own goals, such as finding food. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 191 | Loc. 3336  | Added on Thursday, April 17, 2014, 08:52 AM
+
+Mirror neuron areas help us to understand the emotions of other people because they fire when we see others expressing their emotions. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 192 | Loc. 3344-46  | Added on Thursday, April 17, 2014, 08:54 AM
+
+In sum, empathy can be based on the kind of verbal analogical mapping discussed by Barnes and me; but it can more fundamentally involve direct perceptual detection of the relation between someone's situation and your own via your mirror neurons. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 193 | Loc. 3361-63  | Added on Tuesday, April 22, 2014, 08:55 AM
+
+The adoption of norms enables us to reason about what is right and wrong, but these norms have an emotional underpinning that intrinsically provides a connection between morality and action: people are moral because of their emotional commitment to normative rules. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 194 | Loc. 3371-72  | Added on Tuesday, April 22, 2014, 08:57 AM
+
+Normal children do not need to reason about why harm is bad for other people; they can actually feel that harm is bad. Thus mirror neurons provide motivation not to harm others by virtue of direct understanding of what it is for another to be harmed. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 194 | Loc. 3383-84  | Added on Tuesday, April 22, 2014, 09:03 AM
+
+For ethics, the capacity to care about others is at least as important as the ability to reason about them. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 195 | Loc. 3389-90  | Added on Tuesday, April 22, 2014, 09:05 AM
+
+Mirror neurons and emotional contagion get us started on moral appreciation of the interests of others, but much socialization is required to improve it. We need moral education to reinforce resistance to the psychopathic suggestion that self-interest is the highest good. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 197 | Loc. 3433-35  | Added on Wednesday, April 23, 2014, 09:14 AM
+
+Hence instead of trying to reduce the good to a single goal, pleasure, we can allow that many goals can be relevant to assessing the good. This view is called pluralistic consequentialism, because it allows a variety of goals whose accomplishment can constitute good consequences. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 198 | Loc. 3445-46  | Added on Wednesday, April 23, 2014, 09:17 AM
+
+Many religious traditions, going back to the ancient Greeks, have some variant of the golden rule, that you should treat others as you yourself want to be treated. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 198 | Loc. 3452-54  | Added on Wednesday, April 23, 2014, 09:18 AM
+
+Thus the golden rule is a tool for empathy and caring, not for intellectual exercises such as the veil of ignorance or Kant's categorical imperative, which tells you to act in ways that you can will to be universal. The natural psychological progression is from mirror neuron activity to empathy to emotional and intellectual appreciation of the needs of others. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 200 | Loc. 3476-79  | Added on Wednesday, April 23, 2014, 09:23 AM
+
+Another major problem with consequentialism is that it seems to demand too much of people. It expects us to consider the consequences for all people equally, which means that we should consider strangers as on a par with ourselves and with people we are close to, like family members. But very few people are capable of counting the happiness of themselves and people they love as no more important than that of people they will never meet. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 200 | Loc. 3482-84  | Added on Wednesday, April 23, 2014, 09:23 AM
+
+Thanks to mirror neurons and the cognitive and bodily aspects of emotional intuition, people are capable of caring about other people in general. But we cannot expect them to put aside a special concern for the well-being of their loved ones. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 200 | Loc. 3484-85  | Added on Wednesday, April 23, 2014, 09:26 AM
+
+Hence ideas about vital needs can be used to overcome the most serious objections to consequentialism as an ethical theory by making it pluralistic, compatible with rights, and sensitive to social ties. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 200 | Loc. 3492-94  | Added on Wednesday, April 23, 2014, 09:29 AM
+
+Thus needs-based consequentialism is the most plausible ethical theory currently available, and opens the possibility that judgments about right and wrong might be objective. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 203 | Loc. 3543-47  | Added on Thursday, April 24, 2014, 09:01 AM
+
+In sum, moral objectivity becomes possible if we look, not to theology or a priori reasoning, but to evidence drawn from biology and psychology. Needs-based consequentialism fits well with the brain-based emotional consciousness account of moral intuition and with the cultural diversity of moral behavior. The difficulty of arriving at indisputable moral principles is the result not of moral relativity, but rather of the huge complexity of determining the range and importance of human psychological needs and calculating the consequences of the available range of actions. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 203 | Loc. 3547-48  | Added on Thursday, April 24, 2014, 09:02 AM
+
+Moral judgments are very difficult decisions, but we can still strive to use all we know about the nature of the world and human minds to make them the best we can. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 204 | Loc. 3556-58  | Added on Thursday, April 24, 2014, 09:04 AM
+
+The distinguished neuroscientist Michael Gazzaniga accepts the view that decisions and actions are determined by brain processes, but argues that we can hold on to the idea of responsibility as a property of persons, not brains. He maintains that responsibility is a human construct that exists only in the social world, not a property of brains. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 205 | Loc. 3565-67  | Added on Thursday, April 24, 2014, 09:08 AM
+
+Then holding someone responsible for acting immorally does have a point: we want to try to ensure that future decisions, by the person blamed as well as by other people, are made on the basis of goals that include the interests and needs of all those concerned. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 205 | Loc. 3572-79  | Added on Saturday, April 26, 2014, 03:26 PM
+
+Hence the Brain Revolution does not require abandoning the idea of moral responsibility, but it does change it substantially. On the traditional, dualist view, a person is a mind that is a soul, and actions are the result of free choices not fully determined by physical causes. People who make bad choices of their own free will can be held responsible for them and deserve to be punished. But on the view I have been defending, actions are the result of decisions that are physical brain processes, so the point of responsibility and punishment cannot be the sinful nature of what a person has done. Rather, holding people responsible for their actions and punishing them are justified if they have the good social consequences of reducing harm to people in the future. As Gazzaniga suggests, we should think of a person as a social being, understood in terms of relationships to other persons, not just as a brain or body. If persons are conceived as social and the point of holding them responsible is social improvement, then the idea of moral responsibility survives. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 206 | Loc. 3586-90  | Added on Saturday, April 26, 2014, 03:33 PM
+
+At first glance, it might seem that my rejection of free will is incompatible with the need for autonomy. How can people feel that their activities are self-chosen if their decisions are just neural activity? The answer requires replacing the traditional concept of the self, an immortal soul free of physical constraints, with a concept informed by neuroscience. Then the self can be viewed as a complex neural system encompassing representational structures and processing capacities that differentiate between (a) actions that are generated by internal decision making based on intrinsic interests and (b) actions that are externally coerced or motivated. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 207 | Loc. 3600-3601  | Added on Saturday, April 26, 2014, 03:36 PM
+
+Moral intuitions by themselves are not evidence that something is right or wrong, and must be evaluated as to whether they reflect objective moral concerns or merely previous biased experience or coercive and arbitrary inculcation by bogus moral authorities. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 208 | Loc. 3621-22  | Added on Saturday, April 26, 2014, 03:41 PM
+
+You cannot derive an ought from an is, but you can appreciate that some proposed oughts fit much better than do others with what we know about minds, brains, and cultures. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 208 | Loc. 3622-25  | Added on Saturday, April 26, 2014, 03:41 PM
+
+Consequentialism about vital needs is coherent with biological and psychological knowledge, and therefore provides a better approach to normative ethics than do alternatives such as theological and Kantian ethics. Indeed, moral objectivity is possible because there are psychological, neurological, and social facts about what humans need to function and thrive. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 209 | Loc. 3639-40  | Added on Saturday, April 26, 2014, 04:33 PM
+
+Anecdotes are at best a weak form of evidence, and the made-up thought experiments favored by many philosophers are not evidence at all. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 209 | Loc. 3640-43  | Added on Saturday, April 26, 2014, 04:33 PM
+
+I have used more systematic forms of evidence to argue for two main claims about reality, that minds are physical systems constituted by brains interacting with bodies and the world, and that the world exists independently of anyone's mind. We know reality not just by collecting the results of observation and experiment, but also by forming theories that we can evaluate to see whether they are part of the best explanation of the full range of available evidence. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 211 | Loc. 3664-66  | Added on Saturday, April 26, 2014, 04:40 PM
+
+We can use evidence to help us select theories and to identify practices and goals, at the same time that evidence is influenced by theories, and practices and goals are influencing each other. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 211 | Loc. 3668-75  | Added on Saturday, April 26, 2014, 04:42 PM
+
+The kind of parallel process presented in figure 10.1 can be hard to grasp, so here is a more linear depiction of how descriptive evidence can help to establish prescriptive norms. I will call this sequence the normative procedure. Identify a domain of practices, such as scientific inference ( chapter 2 ) or ethical reasoning ( chapter 9 ). Identify candidate norms for these practices, such as inference to the best explanation ( chapter 2 ) or consequentialism ( chapter 9 ). Identify the appropriate goals of the practices in the given domain, such as truth ( chapter 4 ) and vital needs ( chapter 8 ). Evaluate the extent to which different practices accomplish the relevant goals. Adopt as domain norms those practices that best accomplish the relevant goals. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 220 | Loc. 3826-28  | Added on Saturday, April 26, 2014, 05:17 PM
+
+I hope that increased knowledge about interconnected multilevel mechanisms will be useful for explaining human thinking, and, further, for creating new ways to approach difficult social problems. Then philosophy and neuroscience will serve not only to interpret the world, but also to help change it. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 223 | Loc. 3870-71  | Added on Saturday, April 26, 2014, 05:26 PM
+
+Abstract mathematical statements such as those in set theory and number theory are fictional assertions rather than necessary truths. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 223 | Loc. 3873-75  | Added on Saturday, April 26, 2014, 05:26 PM
+
+I think that pure mathematics sometimes turns out to be scientifically useful for the same reason that good fiction can tell us much about human psychology and social relations. Harry Potter and wizards do not exist, but J. K. Rowling's characters are based on her familiarity with and understanding of human social relations. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 224 | Loc. 3878-79  | Added on Saturday, April 26, 2014, 05:27 PM
+
+The writer Julian Barnes said that the novel tells beautiful, shapely lies which enclose hard, exact truths. Mathematics tells beautiful, exact lies that sometimes approximate to messy truths. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 224 | Loc. 3888-92  | Added on Saturday, April 26, 2014, 05:31 PM
+
+Few educated people now buy the biblical picture that the world was created just six thousand years ago, but there is still some appeal to the idea that God made the big bang and thereby created the universe. Problems with this view are easily spotted, such as how a nonmaterial being managed to create matter and energy, but there is something more satisfying about the idea of a creator than about the idea of our universe just popping into existence through some kind of inexplicable quantum fluctuation. Theology still seems more explanatory than does magic. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 225 | Loc. 3905-7  | Added on Saturday, April 26, 2014, 05:48 PM
+
+I mention the cyclic model here because it shows the possibility of an evidence-based answer to the question of why there is something and not nothing. According to the model, there has always been something, namely, branes, which are the historical causes of the existence of an infinite number of universes, including ours. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 225 | Loc. 3909-12  | Added on Saturday, April 26, 2014, 05:50 PM
+
+Perhaps the cyclic universe is not emotionally satisfying, because it stands far from providing any kind of reassurance about the meaning of the universe and our place in it. But it is potentially cognitively satisfying because it provides a nonmysterious mechanism by which our universe could have come to be. If I someday write a second edition of this book, I hope it will have a chapter section called “Branes and the Meaning of Life.” 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 226 | Loc. 3917-20  | Added on Saturday, April 26, 2014, 05:53 PM
+
+I see the anthropic principle as yet another attempt to stage a Ptolemaic counterrevolution, aiming to put human minds back at the center of reality. This attempt is no more successful than its many predecessors, including Kant's theory of knowledge, Husserl's phenomenology, Buddhist mysticism, New Age wishful spirituality, postmodernism, the Wittgensteinian defense of everyday concepts, and consciousness-based interpretations of quantum mechanics. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 226 | Loc. 3920-23  | Added on Saturday, April 26, 2014, 05:53 PM
+
+Rejecting idealism and the lure of dualism, we need to comprehend the insights of physics, biology, and neuroscience that our minds are just another physical process in a vast universe. The cyclic theory shows how this universe might have come into existence through a physical mechanism, without generating spurious reassurance about the centrality of human thinking to reality. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 228 | Loc. 3960-62  | Added on Saturday, April 26, 2014, 06:01 PM
+
+Problems about reality, knowledge, morality, and meaning are all connected, not by transcendental truths, but by the history and nature of human beings in a physical universe. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 247 | Loc. 4435-36  | Added on Saturday, April 26, 2014, 11:31 PM
+
+Psychopathic behavior can also result from damage to the ventromedial prefrontal cortex, as in the case of Phineas Gage, and (I conjecture) from reading Ayn Rand. 
+==========
+The Brain and the Meaning of Life (Paul Thagard)
+- Highlight on Page 250 | Loc. 4520-21  | Added on Saturday, April 26, 2014, 11:39 PM
+
+My hope is that neural naturalism can help to rescue cultural studies from the pit of postmodernism, which combines obsolete psychology (Freud) with outmoded politics (Marx) and obscure philosophy (Heidegger). 
+==========
