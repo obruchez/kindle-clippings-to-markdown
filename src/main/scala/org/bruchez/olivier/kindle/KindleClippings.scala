@@ -46,9 +46,10 @@ object KindleClippings {
 
     for {
       title :: pageOrlocation :: empty :: clippingContents :: separator :: Nil <- lines.grouped(5)
+      trimmedTitle = title.trim.replaceAll("\uFEFF", "")
       trimmedClippingContents = clippingContents.trim
       if trimmedClippingContents.nonEmpty
-      book = Book(title)
+      book = Book(trimmedTitle)
       clippingsForBook = clippingsByBook.getOrElse(book, Vector[Clipping]())
       pageOption = pageOrlocation match {
         case Page(page) => Try(page.toInt).toOption
@@ -66,9 +67,9 @@ object KindleClippings {
     KindleClippings(Map(clippingsByBook.toSeq.map(kv => kv._1 -> kv._2.toSeq): _*))
   }
 
-  private val Page = """.*Page (\d+) .*""".r
+  private val Page = """.*[Pp]age (\d+) .*""".r
 
-  private val Location = """.*Loc. ([^ ]+) .*""".r
+  private val Location = """.*Loc(?:\.|ation) ([^ ]+) .*""".r
 
   private def lines(filename: String): Try[List[String]] =
     Try(Source.fromFile(filename)(scala.io.Codec.UTF8).getLines().toList)
