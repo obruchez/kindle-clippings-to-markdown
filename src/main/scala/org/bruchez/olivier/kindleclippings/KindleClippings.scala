@@ -1,4 +1,4 @@
-package org.bruchez.olivier.kindle
+package org.bruchez.olivier.kindleclippings
 
 import java.io._
 import scala.collection.mutable
