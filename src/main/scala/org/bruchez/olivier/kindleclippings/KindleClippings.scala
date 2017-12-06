@@ -12,9 +12,9 @@ case class Book(title: String) {
 case class Clipping(contents: String, pageOption: Option[Int], locationOption: Option[String]) {
   def markdown: String =
     contents +
-      (pageOption.map(page => s"p. $page") orElse locationOption.map(location => s"loc. $location")).
-        map(pageOrLocation => s" ($pageOrLocation)").
-        getOrElse("")
+      (pageOption.map(page => s"p. $page") orElse locationOption.map(location => s"loc. $location"))
+        .map(pageOrLocation => s" ($pageOrLocation)")
+        .getOrElse("")
 }
 
 case class KindleClippings(clippingsByBook: Map[Book, Seq[Clipping]]) {
@@ -36,16 +36,19 @@ case class KindleClippings(clippingsByBook: Map[Book, Seq[Clipping]]) {
 object KindleClippings {
   def main(args: Array[String]) {
     lines(args.headOption.getOrElse("My Clippings.txt")) match {
-      case Success(lines) => KindleClippings(lines).createMarkdownFiles()
+      case Success(lines)     => KindleClippings(lines).createMarkdownFiles()
       case Failure(throwable) => println(s"Error: ${throwable.getMessage}")
     }
   }
 
   def apply(lines: List[String]): KindleClippings = {
+    val LinesPerBook = 5
+
     val clippingsByBook = mutable.HashMap[Book, Vector[Clipping]]()
 
     for {
-      title :: pageOrlocation :: empty :: clippingContents :: separator :: Nil <- lines.grouped(5)
+      title :: pageOrlocation :: empty :: clippingContents :: separator :: Nil <- lines.grouped(
+        LinesPerBook)
       trimmedTitle = title.trim.replaceAll("\uFEFF", "")
       trimmedClippingContents = clippingContents.trim
       if trimmedClippingContents.nonEmpty
@@ -53,11 +56,11 @@ object KindleClippings {
       clippingsForBook = clippingsByBook.getOrElse(book, Vector[Clipping]())
       pageOption = pageOrlocation match {
         case Page(page) => Try(page.toInt).toOption
-        case _ => None
+        case _          => None
       }
       locationOption = pageOrlocation match {
         case Location(location) => Some(location)
-        case _ => None
+        case _                  => None
       }
       clipping = Clipping(trimmedClippingContents, pageOption, locationOption)
     } {
