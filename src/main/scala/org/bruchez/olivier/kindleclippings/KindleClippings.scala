@@ -67,7 +67,7 @@ object KindleClippings {
       clippingsByBook.update(book, clippingsForBook :+ clipping)
     }
 
-    KindleClippings(Map(clippingsByBook.toSeq.map(kv => kv._1 -> kv._2.toSeq): _*))
+    KindleClippings(Map(clippingsByBook.toSeq.map(kv => kv._1 -> kv._2.distinct): _*))
   }
 
   private val Page = """.*[Pp]age (\d+) .*""".r
