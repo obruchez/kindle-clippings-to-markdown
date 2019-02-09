@@ -42,33 +42,56 @@ object KindleClippings {
   }
 
   def apply(lines: List[String]): KindleClippings = {
-    val LinesPerBook = 5
+    val MinLinesPerBook = 5
 
-    val clippingsByBook = mutable.HashMap[Book, Vector[Clipping]]()
+    @annotation.tailrec
+    def clippingsByBook(remainingLines: List[String],
+                        acc: List[(Book, Clipping)] = List()): Seq[(Book, Clipping)] =
+      if (remainingLines.size < MinLinesPerBook) {
+        acc.reverse
+      } else {
+        val title :: pageOrLocation :: empty :: clippingContentsAndRemainingLines = remainingLines
 
-    for {
-      title :: pageOrlocation :: empty :: clippingContents :: separator :: Nil <- lines.grouped(
-        LinesPerBook)
-      trimmedTitle = title.trim.replaceAll("\uFEFF", "")
-      trimmedClippingContents = clippingContents.trim
-      if trimmedClippingContents.nonEmpty
-      book = Book(trimmedTitle)
-      clippingsForBook = clippingsByBook.getOrElse(book, Vector[Clipping]())
-      pageOption = pageOrlocation match {
-        case Page(page) => Try(page.toInt).toOption
-        case _          => None
+        val newRemainingLines =
+          clippingContentsAndRemainingLines.dropWhile(line => !separator(line)).tail
+
+        val clippingContents = clippingContentsAndRemainingLines
+          .take(clippingContentsAndRemainingLines.size - newRemainingLines.size - 1)
+          .map(_.trim)
+          .dropWhile(_.isEmpty)
+          .reverse
+          .dropWhile(_.isEmpty)
+          .reverse
+
+        val newAcc =
+          if (clippingContents.isEmpty) {
+            acc
+          } else {
+            val clippingContentsAsString = clippingContents.mkString("\n")
+
+            val trimmedTitle = title.trim.replaceAll("\uFEFF", "")
+            val book = Book(trimmedTitle)
+            val pageOption = pageOrLocation match {
+              case Page(page) => Try(page.toInt).toOption
+              case _          => None
+            }
+            val locationOption = pageOrLocation match {
+              case Location(location) => Some(location)
+              case _                  => None
+            }
+            val clipping = Clipping(clippingContentsAsString, pageOption, locationOption)
+
+            (book -> clipping) :: acc
+          }
+
+        clippingsByBook(newRemainingLines, acc = newAcc)
       }
-      locationOption = pageOrlocation match {
-        case Location(location) => Some(location)
-        case _                  => None
-      }
-      clipping = Clipping(trimmedClippingContents, pageOption, locationOption)
-    } {
-      clippingsByBook.update(book, clippingsForBook :+ clipping)
-    }
 
-    KindleClippings(Map(clippingsByBook.toSeq.map(kv => kv._1 -> kv._2.distinct): _*))
+    KindleClippings(
+      clippingsByBook(lines).groupBy(_._1).map(kv => kv._1 -> kv._2.map(_._2).distinct))
   }
+
+  private def separator(string: String): Boolean = string.trim.toSet == Set('=')
 
   private val Page = """.*[Pp]age (\d+) .*""".r
 
