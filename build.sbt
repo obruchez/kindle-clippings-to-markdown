@@ -1,6 +1,6 @@
 name := "Kindle clippings to Markdown"
-version := "1.2"
-scalaVersion := "2.12.8"
+version := "1.3"
+scalaVersion := "2.13.3"
 
 mainClass in assembly := Some("org.bruchez.olivier.kindleclippings.KindleClippings")
 

@@ -1,7 +1,8 @@
 package org.bruchez.olivier.kindleclippings
 
 import java.io._
-import scala.collection.mutable
+import java.text.Normalizer
+
 import scala.io.Source
 import scala.util._
 
@@ -102,4 +103,20 @@ object KindleClippings {
 
   private def markdown(book: Book, clippings: Seq[Clipping]): String =
     (s"# ${book.markdown}" +: clippings.map(clipping => s"* ${clipping.markdown}")).mkString("\n")
+
+  private def filenameFromRawString(string: String, replacement: String = "-"): String =
+    withoutTrailingString(
+      Normalizer.normalize(
+        string.replaceAll("""[/\\?%*:|"<>]""", replacement).trim,
+        Normalizer.Form.NFKC
+      ),
+      "."
+    )
+
+  @scala.annotation.tailrec
+  private def withoutTrailingString(string: String, suffix: String): String =
+    if (suffix.isEmpty || !string.endsWith(suffix))
+      string
+    else
+      withoutTrailingString(string.substring(0, string.length - suffix.length), suffix)
 }
