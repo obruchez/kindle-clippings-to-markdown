@@ -24,7 +24,8 @@ case class KindleClippings(clippingsByBook: Map[Book, Seq[Clipping]]) {
       (book, clippings) <- clippingsByBook
       markdown = KindleClippings.markdown(book, clippings)
     } {
-      val out = new PrintWriter(new File(s"${book.title}.md"), "UTF-8")
+      val normalizedFilename = KindleClippings.filenameFromRawString(book.title)
+      val out = new PrintWriter(new File(s"$normalizedFilename.md"), "UTF-8")
       try {
         out.print(markdown)
       } finally {
@@ -92,19 +93,7 @@ object KindleClippings {
       clippingsByBook(lines).groupBy(_._1).map(kv => kv._1 -> kv._2.map(_._2).distinct))
   }
 
-  private def separator(string: String): Boolean = string.trim.toSet == Set('=')
-
-  private val Page = """.*[Pp]age (\d+) .*""".r
-
-  private val Location = """.*Loc(?:\.|ation) ([^ ]+) .*""".r
-
-  private def lines(filename: String): Try[List[String]] =
-    Try(Source.fromFile(filename)(scala.io.Codec.UTF8).getLines().toList)
-
-  private def markdown(book: Book, clippings: Seq[Clipping]): String =
-    (s"# ${book.markdown}" +: clippings.map(clipping => s"* ${clipping.markdown}")).mkString("\n")
-
-  private def filenameFromRawString(string: String, replacement: String = "-"): String =
+  def filenameFromRawString(string: String, replacement: String = "-"): String =
     withoutTrailingString(
       Normalizer.normalize(
         string.replaceAll("""[/\\?%*:|"<>]""", replacement).trim,
@@ -115,8 +104,28 @@ object KindleClippings {
 
   @scala.annotation.tailrec
   private def withoutTrailingString(string: String, suffix: String): String =
-    if (suffix.isEmpty || !string.endsWith(suffix))
+    if (suffix.isEmpty || !string.endsWith(suffix)) {
       string
-    else
+    } else {
       withoutTrailingString(string.substring(0, string.length - suffix.length), suffix)
+    }
+
+  private def separator(string: String): Boolean = string.trim.toSet == Set('=')
+
+  private val Page = """.*[Pp]age (\d+) .*""".r
+
+  private val Location = """.*Loc(?:\.|ation) ([^ ]+) .*""".r
+
+  private def lines(filename: String): Try[List[String]] = {
+    val source = Source.fromFile(filename)(scala.io.Codec.UTF8)
+
+    try {
+      Try(source.getLines().toList)
+    } finally {
+      source.close()
+    }
+  }
+
+  private def markdown(book: Book, clippings: Seq[Clipping]): String =
+    (s"# ${book.markdown}" +: clippings.map(clipping => s"* ${clipping.markdown}")).mkString("\n")
 }
