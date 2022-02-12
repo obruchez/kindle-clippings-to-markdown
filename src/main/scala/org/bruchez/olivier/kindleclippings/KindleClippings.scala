@@ -2,7 +2,6 @@ package org.bruchez.olivier.kindleclippings
 
 import java.io._
 import java.text.Normalizer
-
 import scala.io.Source
 import scala.util._
 
@@ -19,7 +18,7 @@ case class Clipping(contents: String, pageOption: Option[Int], locationOption: O
 }
 
 case class KindleClippings(clippingsByBook: Map[Book, Seq[Clipping]]) {
-  def createMarkdownFiles() {
+  def createMarkdownFiles(): Unit = {
     for {
       (book, clippings) <- clippingsByBook
       markdown = KindleClippings.markdown(book, clippings)
@@ -36,7 +35,7 @@ case class KindleClippings(clippingsByBook: Map[Book, Seq[Clipping]]) {
 }
 
 object KindleClippings {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     lines(args.headOption.getOrElse("My Clippings.txt")) match {
       case Success(lines)     => KindleClippings(lines).createMarkdownFiles()
       case Failure(throwable) => println(s"Error: ${throwable.getMessage}")
@@ -47,8 +46,10 @@ object KindleClippings {
     val MinLinesPerBook = 5
 
     @annotation.tailrec
-    def clippingsByBook(remainingLines: List[String],
-                        acc: List[(Book, Clipping)] = List()): Seq[(Book, Clipping)] =
+    def clippingsByBook(
+        remainingLines: List[String],
+        acc: List[(Book, Clipping)] = List()
+    ): Seq[(Book, Clipping)] =
       if (remainingLines.size < MinLinesPerBook) {
         acc.reverse
       } else {
@@ -90,7 +91,8 @@ object KindleClippings {
       }
 
     KindleClippings(
-      clippingsByBook(lines).groupBy(_._1).map(kv => kv._1 -> kv._2.map(_._2).distinct))
+      clippingsByBook(lines).groupBy(_._1).map(kv => kv._1 -> kv._2.map(_._2).distinct)
+    )
   }
 
   def filenameFromRawString(string: String, replacement: String = "-"): String =
